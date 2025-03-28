@@ -193,5 +193,5 @@ function animateCircles() {
 animateCircles();
 
 function redirectToLink() {
-    window.location.href = "https://t.me/+2CwL0ihzvMdkNmQ1";
+    window.location.href = "https://t.me/+xf3gTXcebDkwNWE9";
 }
